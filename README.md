@@ -7,9 +7,6 @@ More than a profession, a passion. What drives me :
 - Innovate 
 - Collaborate
 
-
-🔭 <sub>I'm currently looking for a job</sub>
-
 ---
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephane-lieumont/) &nbsp; [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StephaneLi) 
