@@ -29,5 +29,5 @@ More than a profession, a passion. What drives me :
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephaneLi&show_icons=true&theme=merko) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneLi&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephane-lieumont&show_icons=true&theme=merko) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephane-lieumont&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
